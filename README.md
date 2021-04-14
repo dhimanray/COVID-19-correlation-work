@@ -1,3 +1,3 @@
 # COVID-19-correlation-work
 
-Codes and datafiles for the preprint: https://www.biorxiv.org/content/10.1101/2020.12.07.415596v1
+Codes and datafiles for the bioRxiv preprint: https://doi.org/10.1101/2020.12.07.415596
